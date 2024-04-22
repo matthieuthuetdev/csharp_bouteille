@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "MLC1v3OLINfzXKN27zqE8EU1Sy/U9RBUYFR6Uw+lYXIGG716Mh/pHvyBKQtbhqM9vu/f6SfaV8W2b3feyhSziA==",
+  "dgSpecHash": "gNbTGjgKmBz2SwKv1zEU8DXdax7EvpD7EYlwL4JkzC8Ktryw/H2z6ey/LKpabargRqUN4MUT8/l0T4W7X+zVzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mthuet\\Documents\\code\\csharp\\csharp_bouteille\\solution_bouteille\\test_bouteille\\test_bouteille.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mattm\\Documents\\code\\csharp\\csharp_bouteille\\solution_bouteille\\test_bouteille\\test_bouteille.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mattm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\mattm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\mattm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\mattm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

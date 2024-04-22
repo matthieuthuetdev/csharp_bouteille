@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("library_bouteille")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4f84d37357a3afa9e4daea607398b2a2b1b13c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("library_bouteille")]
 [assembly: System.Reflection.AssemblyTitleAttribute("library_bouteille")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

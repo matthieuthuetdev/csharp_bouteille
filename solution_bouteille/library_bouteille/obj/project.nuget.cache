@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "EyNtdo0qVPDiEYfa+bQt09WBPwuIMgSQJodj9EnL6inQVr+VU105vxBeoFXnKNNAZLq3LLgjeXUHlEm2UpNNCQ==",
+  "dgSpecHash": "SF2DAyozYo02wELokE9D1WQIwgVI63OJAsC+aMAxPFADkUrGXaBfCwYiZD1pmVYSVNnp/bm0sRxnjgJLaKRb/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mthuet\\Documents\\code\\csharp\\csharp_bouteille\\solution_bouteille\\library_bouteille\\library_bouteille.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mattm\\Documents\\code\\csharp\\csharp_bouteille\\solution_bouteille\\library_bouteille\\library_bouteille.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mattm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\mattm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\mattm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }
